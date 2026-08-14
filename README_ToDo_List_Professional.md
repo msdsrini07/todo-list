@@ -21,7 +21,7 @@ A clean and interactive **To-Do List web application** built with **HTML5, CSS3 
 
 <div align="center">
 
-<img src="todo-readme-showcase.png" alt="To-Do List Professional Showcase" width="900">
+<img src="todo-preview.png" alt="To-Do List Professional Showcase" width="900">
 
 </div>
 
