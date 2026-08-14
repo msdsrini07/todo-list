@@ -31,7 +31,7 @@ A clean and interactive **To-Do List web application** built with **HTML5, CSS3 
 
 <div align="center">
 
-<img src="todo-preview.png" alt="Actual To-Do List Application" width="900">
+<img src="todo-list overall preview.png" alt="Actual To-Do List Application" width="900">
 
 </div>
 
